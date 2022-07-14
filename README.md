@@ -12,3 +12,7 @@ https://www.knowmore.cc/a/202104/473585.html
 
 # ml
 https://github.com/josephmisiti/awesome-machine-learning
+
+
+# code convert
+https://docs.python.org/3/library/codecs.html#standard-encodings
