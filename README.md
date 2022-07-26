@@ -23,3 +23,6 @@ https://docs.python.org/3/library/codecs.html#standard-encodings
 
 # python implementation
 https://allaboutdataanalysis.medium.com/python%E8%99%95%E7%90%86%E8%BE%A6%E5%85%AC%E8%87%AA%E5%8B%95%E5%8C%96%E7%9A%8410%E5%A4%A7%E5%A0%B4%E6%99%AF-fa0f98283052
+
+# feature importance
+https://iter01.com/480015.html
