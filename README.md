@@ -26,3 +26,12 @@ https://allaboutdataanalysis.medium.com/python%E8%99%95%E7%90%86%E8%BE%A6%E5%85%
 
 # feature importance
 https://iter01.com/480015.html
+
+
+# excel 時間轉換
+https://stackoverflow.com/questions/3727916/how-to-use-xlrd-xldate-as-tuple
+https://discuss.dizzycoding.com/how-do-i-read-a-date-in-excel-format-in-python/
+
+# read xls 
+https://clay-atlas.com/blog/2019/10/06/python-chinese-tutorial-xlrd-xls-data/
+
