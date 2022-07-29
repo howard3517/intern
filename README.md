@@ -35,3 +35,7 @@ https://discuss.dizzycoding.com/how-do-i-read-a-date-in-excel-format-in-python/
 # read xls 
 https://clay-atlas.com/blog/2019/10/06/python-chinese-tutorial-xlrd-xls-data/
 
+
+# pandas toolpack
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
