@@ -1,6 +1,8 @@
 # cheack
 https://www.browserstack.com/guide/download-file-using-selenium-python
 
+# conda terminal
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 # Unzip
 https://stackoverflow.com/questions/5724940/move-required-files-where-they-need-to-go
