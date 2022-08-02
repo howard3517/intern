@@ -40,5 +40,5 @@ https://clay-atlas.com/blog/2019/10/06/python-chinese-tutorial-xlrd-xls-data/
 # pandas toolpack
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-# Github tutorial
+# GitHub tutorial
 https://github.com/twtrubiks/Git-Tutorials
