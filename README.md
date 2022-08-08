@@ -46,3 +46,6 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://github.com/twtrubiks/Git-Tutorials
 
 https://gitbook.tw/chapters/github/push-to-github
+
+# pytorch
+https://github.com/fendouai/PyTorchDocs
