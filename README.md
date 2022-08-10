@@ -53,5 +53,6 @@ https://github.com/fendouai/PyTorchDocs
 
 # Deep learning
 implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn-mnist
+
 API : https://github.com/TommyHuang821/Deep-Learning-API-example
 
