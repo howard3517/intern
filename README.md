@@ -42,12 +42,14 @@ https://clay-atlas.com/blog/2019/10/06/python-chinese-tutorial-xlrd-xls-data/
 # pandas toolpack
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-# GitHub tutorial
+# Git tutorial
 https://github.com/twtrubiks/Git-Tutorials
 
 https://gitbook.tw/chapters/github/push-to-github
 
 https://github.com/pyliaorachel/git-very-good-tutorial
+
+https://kopu.chat/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-1/#lwptoc9
 
 # pytorch
 https://github.com/fendouai/PyTorchDocs
