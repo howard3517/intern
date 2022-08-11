@@ -47,6 +47,8 @@ https://github.com/twtrubiks/Git-Tutorials
 
 https://gitbook.tw/chapters/github/push-to-github
 
+https://github.com/pyliaorachel/git-very-good-tutorial
+
 # pytorch
 https://github.com/fendouai/PyTorchDocs
 
