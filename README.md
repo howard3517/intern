@@ -54,6 +54,8 @@ https://kopu.chat/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part
 # pytorch
 https://github.com/fendouai/PyTorchDocs
 
+https://www.minglunwu.com/notes/2020/20200324.html
+
 
 # Deep learning
 implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn-mnist
