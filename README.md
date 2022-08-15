@@ -58,6 +58,7 @@ https://www.minglunwu.com/notes/2020/20200324.html
 
 微軟:
 https://docs.microsoft.com/zh-tw/windows/ai/windows-ml/tutorials/pytorch-analysis-train-model
+
 https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2019/march/test-run-neural-regression-using-pytorch
 
 基礎模型:
