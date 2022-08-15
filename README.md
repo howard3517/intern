@@ -56,10 +56,15 @@ https://github.com/fendouai/PyTorchDocs
 
 https://www.minglunwu.com/notes/2020/20200324.html
 
-微軟:https://docs.microsoft.com/zh-tw/windows/ai/windows-ml/tutorials/pytorch-analysis-train-model
+微軟:
+https://docs.microsoft.com/zh-tw/windows/ai/windows-ml/tutorials/pytorch-analysis-train-model
+https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2019/march/test-run-neural-regression-using-pytorch
 
-基礎模型:https://medium.com/programming-with-data/python%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-pytorch%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B-c031e12f933e
+基礎模型:
+https://medium.com/programming-with-data/python%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-pytorch%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B-c031e12f933e
 
+統整:
+https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2019/march/test-run-neural-regression-using-pytorch
 
 # Deep learning
 implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn-mnist
