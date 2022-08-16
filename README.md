@@ -1,4 +1,4 @@
-# cheack
+# selenium download file
 https://www.browserstack.com/guide/download-file-using-selenium-python
 
 # conda terminal
