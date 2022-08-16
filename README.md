@@ -65,6 +65,9 @@ https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2019/march/test-run-neura
 基礎模型:
 https://medium.com/programming-with-data/python%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-pytorch%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B-c031e12f933e
 
+Dataset & Dataloader:
+https://blog.csdn.net/qq_38237214/article/details/109559791
+
 統整:
 https://ithelp.ithome.com.tw/users/20132118/ironman/4690
 
