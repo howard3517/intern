@@ -4,6 +4,7 @@ https://www.browserstack.com/guide/download-file-using-selenium-python
 # conda terminal
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
+
 # Unzip
 https://stackoverflow.com/questions/5724940/move-required-files-where-they-need-to-go
 
@@ -20,7 +21,7 @@ https://medium.com/@super135799/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ml-notes-ka
 https://murphymind.blogspot.com/2020/04/precision-recall-accuracy.html
 
 
-# code convert
+# code text convert
 https://docs.python.org/3/library/codecs.html#standard-encodings
 
 # python implementation
