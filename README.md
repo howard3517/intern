@@ -81,3 +81,10 @@ API : https://github.com/TommyHuang821/Deep-Learning-API-example
 
 # Create own package
 https://www.tutorialsteacher.com/python/python-package
+
+
+
+
+
+
+https://buzzorange.com/techorange/2018/01/24/neural-networks-compare/
