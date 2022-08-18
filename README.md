@@ -77,6 +77,8 @@ https://ithelp.ithome.com.tw/users/20132118/ironman/4690
 # Deep learning
 implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn-mnist
 
+架構 : https://buzzorange.com/techorange/2018/01/24/neural-networks-compare/
+
 API : https://github.com/TommyHuang821/Deep-Learning-API-example
 
 # Create own package
@@ -87,4 +89,4 @@ https://www.tutorialsteacher.com/python/python-package
 
 
 
-https://buzzorange.com/techorange/2018/01/24/neural-networks-compare/
+
