@@ -97,4 +97,6 @@ https://grad.berkeley.edu/admissions/choosing-your-program/list/
 
 https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics
 
+https://master.stat.ucla.edu/
+
 https://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-masters/overview
