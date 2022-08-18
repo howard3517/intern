@@ -79,6 +79,8 @@ implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn
 
 架構 : https://buzzorange.com/techorange/2018/01/24/neural-networks-compare/
 
+https://www.upgrad.com/blog/neural-network-architectures/
+
 API : https://github.com/TommyHuang821/Deep-Learning-API-example
 
 # Create own package
