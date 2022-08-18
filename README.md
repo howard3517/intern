@@ -90,5 +90,11 @@ https://www.tutorialsteacher.com/python/python-package
 
 
 
+# graduate
+https://ed.stanford.edu/eds
 
+https://grad.berkeley.edu/admissions/choosing-your-program/list/
 
+https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics
+
+https://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-masters/overview
