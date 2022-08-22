@@ -74,6 +74,8 @@ https://blog.csdn.net/qq_38237214/article/details/109559791
 統整:
 https://ithelp.ithome.com.tw/users/20132118/ironman/4690
 
+https://rowantseng.medium.com/%E7%B0%A1%E4%BB%8Bpytorch-46bdfb1fef77
+
 # Deep learning
 implamentation : https://jason-chen-1992.weebly.com/home/hello-deep-learning-dnn-mnist
 
