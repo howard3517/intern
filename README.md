@@ -1,3 +1,6 @@
+# 多圖共用legend
+https://stackoverflow.com/questions/70614387/geopandas-multiple-maps-sharing-one-legend
+
 # selenium download file
 https://www.browserstack.com/guide/download-file-using-selenium-python
 
