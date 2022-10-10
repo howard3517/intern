@@ -1,6 +1,10 @@
 # plot chinese text
 https://www.happycoder.org/2020/08/14/pandas-matplotlib-plot-support-chinese-font-solution-tutorial/
 
+https://scentellegher.github.io/visualization/2018/05/02/custom-fonts-matplotlib.html
+
+https://orcahmlee.github.io/data-science/working-matplotlib-and-seaborn-with-chinese/
+
 # 多圖共用legend
 https://stackoverflow.com/questions/70614387/geopandas-multiple-maps-sharing-one-legend
 
