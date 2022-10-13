@@ -1,14 +1,23 @@
 # plot chinese text
 
 from matplotlib.font_manager import FontProperties
+
 myfont = FontProperties(fname=r'./NotoSansCJK-Black.ttc')
- 設定標頭和字體
+
+設定標頭和字體
+
 plt.title('一月份各區域結婚數',fontproperties=myfont)
- 設定 x 軸標頭和字體
+
+設定 x 軸標頭和字體
+
 plt.xlabel('區域別',fontproperties=myfont)
- 設定 y 軸標頭和字體
+
+設定 y 軸標頭和字體
+
 plt.ylabel('結婚數', fontproperties=myfont)
- 設定右上角說明圖示字體
+
+設定右上角說明圖示字體
+
 plt.legend(prop=myfont)
 
 https://www.happycoder.org/2020/08/14/pandas-matplotlib-plot-support-chinese-font-solution-tutorial/
